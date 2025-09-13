@@ -1,0 +1,12 @@
+# venv & Python cache
+.venv/
+__pycache__/
+*.pyc
+
+# secrets
+.env
+.env.local
+
+# editors
+.vscode/
+.idea/
